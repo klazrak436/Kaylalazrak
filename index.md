@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+[Portfolio](http://www.kaylalazrak.com/portfolio)
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
