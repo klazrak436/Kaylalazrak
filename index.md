@@ -2,6 +2,11 @@
 layout: default
 ---
 
+[Artist Statement](http://www.kaylalazrak.com/artist-statement)
+
+[Portfolio](http://www.kaylalazrak.com/portfolio)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
