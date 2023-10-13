@@ -6,7 +6,7 @@ layout: default
 
 [Portfolio](http://www.kaylalazrak.com/portfolio)
 
-<img src="cover.jpg" width="1500" height="1500">
+<img src="cover.jpg" width="600" height="600">
 <img align="right" src="cover.jpg">
 
 
