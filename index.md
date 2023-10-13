@@ -6,6 +6,8 @@ layout: default
 
 [Portfolio](http://www.kaylalazrak.com/portfolio)
 
+<img src="cover.jpg" width="600" height="600">
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
