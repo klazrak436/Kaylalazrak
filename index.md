@@ -8,6 +8,18 @@ layout: default
 
 [Portfolio](http://www.kaylalazrak.com/portfolio)
 
+* * *
+
+Bio
+
+* * *
+
+Resume/CV
+
+* * *
+
+Contact
+
 <img align="right" src="cover.jpg">
 
 
