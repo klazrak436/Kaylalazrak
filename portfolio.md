@@ -1,10 +1,12 @@
 ![Branching](Brainfire.jpg)
 
-Brainfire deets
+## Brainfire
+Cyanotype on paper, 2021, 6 x 9 in
 
 ![Branching](Intertwined-Affliction.jpg)
 
-Intertwined Affliction deets
+## Intwertwined Affliction
+Cyanotype on paper, 2021, 6 x 9 in
 
 ![Branching](Cyster.jpg)
 
