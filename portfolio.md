@@ -14,7 +14,7 @@ Cyster deets
 
 They're Only Nipples deets
 
-![Branching](Crop-or-cover.jpg)
+![Branching](crop-or-cover.jpg)
 
 Crop or Cover deets
 
