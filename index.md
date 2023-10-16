@@ -4,9 +4,22 @@ layout: default
 
 [Artist Statement](http://www.kaylalazrak.com/artist-statement)
 
+* * *
+
 [Portfolio](http://www.kaylalazrak.com/portfolio)
 
-<img src="cover.jpg" width="600" height="600">
+* * *
+
+Bio
+
+* * *
+
+Resume/CV
+
+* * *
+
+Contact
+
 <img align="right" src="cover.jpg">
 
 
