@@ -55,3 +55,20 @@ Cyanotype on fabric and wire, 2021, 30 x 16 in
 ## Follicle Frenzy
 Cyanotype on cotton, 2022, 12 x 20 in
 
+* * *
+
+[Artist Statement](http://www.kaylalazrak.com/artist-statement)
+
+* * *
+
+[Biography](http://www.kaylalazrak.com/biography)
+
+* * *
+
+[Resume/CV](http://www.kaylalazrak.com/Resume-CV)
+
+* * *
+
+[Contact](http://www.kaylalazrak.com/Contact)
+
+
