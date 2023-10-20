@@ -10,7 +10,7 @@ layout: default
 
 * * *
 
-Bio
+[Biography](http://www.kaylalazrak.com/biography)
 
 * * *
 
