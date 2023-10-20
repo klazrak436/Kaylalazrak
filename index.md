@@ -18,7 +18,7 @@ layout: default
 
 * * *
 
-Contact
+[Contact](http://www.kaylalazrak.com/Contact)
 
 * * *
 
