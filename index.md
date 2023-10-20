@@ -14,11 +14,13 @@ layout: default
 
 * * *
 
-Resume/CV
+[Resume/CV](http://www.kaylalazrak.com/Resume-CV)
 
 * * *
 
 Contact
+
+* * *
 
 <img align="right" src="cover.jpg">
 
