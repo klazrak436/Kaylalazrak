@@ -1,5 +1,4 @@
-# Portfolio
-### Prices available upon request
+# Prices available upon request
 
 ![Branching](Brainfire.jpg)
 
