@@ -1,4 +1,3 @@
-# Artist Statement
 
   The overall message in my breadth of work is that of body positivity and acceptance. Finding the figure a favorite subject in art all my life easily drew me to self-portraiture and research in feminism. In early exploration creating self-portraits, I found depictions of women’s bodies have an undercurrent of sexualization usually accompanying them, a connotation I wish to dispel in my own work. This led to expanding my practice to cyanotyping and body printing, in which my body is abstracted and more difficult to define. I use these silhouetted versions of my body to speak on issues pertaining to the body such as personal insecurities, perceptions of the body by the self and others, and feminist ideologies.
 
